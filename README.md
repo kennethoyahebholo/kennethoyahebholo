@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethoyahebholo&show_icons=true&include_all_commits=true&hide_border=true" alt="Kenneth's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethoyahebholoi&langs_count=8&layout=compact&hide_border=true" alt="Kenneth's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethoyahebholo&show_icons=true&include_all_commits=true&hide_border=true" alt="Kenneth's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethoyahebholo&langs_count=8&layout=compact&hide_border=true" alt="Kenneth's GitHub stats" /> |
 | ------------- | ------------- |
